@@ -1,4 +1,4 @@
-Learning-IoT-HTTP
+Learning-IoT-UPnP
 =================
 
 Source code for the UPnP chapter of the book "Learning Internet of Things".
