@@ -8,7 +8,7 @@ This chapter covers the basics of the UPnP protocol. It also shows how to use UP
 The source code contains the following projects:
 
 |Project                          | Description|
-| ------------------------------- | ---------- |
+|:------------------------------- |:---------- |
 |**Camera**                       | The camera project. Publishes an infrared camera and some control parameters.|
 |**Controller**                   | The controller project. Controls the actuator based on input received from the sensor.|
 |**Clayster.Library.IoT**         | Library handling basic interoperability for the Internet of Things.|
