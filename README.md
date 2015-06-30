@@ -31,3 +31,7 @@ Chapters of the book:
 | 7       | Using an IoT Service Platform | [Learning-IoT-IoTPlatform](https://github.com/Clayster/Learning-IoT-IoTPlatform) |
 | 8       | Creating protocol gateways    | [Learning-IoT-Gateway](https://github.com/Clayster/Learning-IoT-Gateway) |
 | 9       | Security and Interoperability | N/A |
+
+[Ulf Bonde](http://learninginternetofthings.com/author/ulf-bonde/) has documented his progress with the book in a series of interesting and well-done video-tutorials on <http://learninginternetofthings.com/>. A post that might be of interest to people using code in this project include:
+
+* [Amongst Friends: UPnP](http://learninginternetofthings.com/amongst-friends-upnp/)
